@@ -1,0 +1,30 @@
+{
+    "files":[
+        {"filePath" : "./img/1.jpg", "caption":"Sometimes we do not have time to set the table correctly even though the presentation of our plate is perfect! #foodporn #spaghetti #vegan #govegan"},
+        {"filePath" : "./img/2.jpg", "caption":"Cereals, blueberries and yogurt, can there be anything better for breakfast? #cereals #blueberries #yogurt #foodporn"},
+        {"filePath" : "./img/3.jpg", "caption":"What colors do you prefer in your food dish? #colorful #eggs #foodgasm #yummy"},
+        {"filePath" : "./img/4.jpg", "caption":"A perfect color range on your plate #avocado #foodphotography #foodie #cook"},
+        {"filePath" : "./img/5.jpg", "caption":"What is your ideal breakfast? #breakfast #style #foodporn #yogurt"},
+        {"filePath" : "./img/6.jpg", "caption":"Red tomato, white cheese. Nothing better to kill hunger #foodie #cheese #foodgasm #yummy"},
+        {"filePath" : "./img/7.jpg", "caption":"I can't wait for lunch! #Ham #yummy #foodie #foorporn"},
+        {"filePath" : "./img/8.jpg", "caption":"Can anyone resist this? #foodgasm #foodphotography #cook #foodie"}
+    ],
+    "intervals":[
+        {"startHour": 8, "startMinute": 0, "action": "likes"},
+        {"startHour": 10, "startMinute": 0, "action": "likes"},
+        {"startHour": 13, "startMinute": 0, "action": "likes"},
+        {"startHour": 16, "startMinute": 0, "action": "likes"},
+        {"startHour": 20, "startMinute": 0, "action": "likes"},
+        {"startHour": 23, "startMinute": 0, "action": "likes"},
+        {"startHour": 17, "startMinute": 0, "action": "followPeople"}
+    ],
+    "hashtags":[
+        "vegan",
+        "vegetarian",
+        "govegan",
+        "veganfood",
+        "organic"
+    ],
+    "likesPerInterval": 15,
+    "followsPerInterval": 5
+}
