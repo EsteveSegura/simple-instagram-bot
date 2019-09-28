@@ -14,9 +14,11 @@
         {"startHour": 10, "startMinute": 0, "action": "likes"},
         {"startHour": 13, "startMinute": 0, "action": "likes"},
         {"startHour": 16, "startMinute": 0, "action": "likes"},
+        {"startHour": 17, "startMinute": 0, "action": "followPeople"},
+        {"startHour": 17, "startMinute": 30, "action": "uploadPicture"},
         {"startHour": 20, "startMinute": 0, "action": "likes"},
-        {"startHour": 23, "startMinute": 0, "action": "likes"},
-        {"startHour": 17, "startMinute": 0, "action": "followPeople"}
+        {"startHour": 23, "startMinute": 0, "action": "likes"}
+
     ],
     "hashtags":[
         "vegan",
