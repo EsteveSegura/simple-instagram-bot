@@ -3,5 +3,5 @@ https://medium.com/@EsteveSegura/how-to-automate-an-instagram-account-without-be
 Instagram is on constant evolution, this may not work.
 
 
-We're planing to re do this whole thing!
+We're planing to re do this whole thing!!
 -
